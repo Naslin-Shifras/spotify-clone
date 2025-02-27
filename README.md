@@ -1,7 +1,7 @@
 🎵 Spotify Clone
 A sleek Spotify-inspired music streaming web app built with React.js, Vite, and Tailwind CSS.
 
-
+![image alt](https://github.com/Naslin-Shifras/spotify-clone/blob/4d6f3e38030aaf36abc8a0ff839d319e5fa83b00/Screenshot%202025-02-27%20160406.png)
 
 🚀 Features
 Play songs with a modern UI
