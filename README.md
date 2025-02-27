@@ -15,3 +15,12 @@ State Management: useState, useContext
 Icons & Assets: Custom SVGs & External APIs
 
 🔧 Setup
+Clone the repo:
+               git clone https://github.com/Naslin-Shifras/spotify-clone.git
+               cd spotify-clone
+
+Install dependencies:
+               npm install
+
+Start the project:
+               npm run dev
